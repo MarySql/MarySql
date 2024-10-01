@@ -1,6 +1,5 @@
 ## Olá! Me chamo Maryane Soares
-- 🌱 Estudante de Ciências da Computação
-- 😄 Pronouns: ela/dela
+🌱 Estudante de Ciências da Computação
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Mary-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
