@@ -18,8 +18,16 @@
 
 ### 📈 GitHub Stats
 
-![MarySql's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarySql&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarySql&layout=compact&theme=radical)  
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=MarySql&show_icons=true&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarySql&layout=compact&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ### 📫 How to find me:
 
