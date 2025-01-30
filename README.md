@@ -15,6 +15,7 @@
   <img align="center" alt="Mary-git" height="30" width="40" src="https://devicon-website.vercel.app/api/git/original.svg">
   <img align="center" alt="Mary-sql" height="30" width="40" src="https://devicon-website.vercel.app/api/mysql/original.svg">
 </div>
+
 ### 📈 GitHub Stats
 
 ![MarySql's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarySql&show_icons=true&theme=radical)  
