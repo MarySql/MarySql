@@ -1,9 +1,8 @@
+# Hello! I'm Mary 👋
 
-# Olá! Eu sou a Mary 👋
+`Computer Science Student`
 
- `Estudante de Ciências da Computação`  
-
-> **Desenvolvedora Fullstack** apaixonada por tecnologia e desenvolvimento de software. Sempre buscando aprender e evoluir! 🚀
+> **Fullstack Developer** passionate about technology and software development. Always looking to learn and evolve! 🚀
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mary-Java" height="30" width="40" src="https://devicon-website.vercel.app/api/java/original.svg">
@@ -16,13 +15,12 @@
   <img align="center" alt="Mary-git" height="30" width="40" src="https://devicon-website.vercel.app/api/git/original.svg">
   <img align="center" alt="Mary-sql" height="30" width="40" src="https://devicon-website.vercel.app/api/mysql/original.svg">
 </div>
-
-### 📈 Estatísticas do GitHub
+### 📈 GitHub Stats
 
 ![MarySql's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarySql&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarySql&layout=compact&theme=radical)  
 
-### 📫 Como me encontrar:
+### 📫 How to find me:
 
 <div> 
   <a href = "mailto:mary.mitsuri250@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -33,4 +31,4 @@
 
 ---
 
-_"A tecnologia move o mundo!"_ 💡
+_"Technology moves the world!"_ 💡
