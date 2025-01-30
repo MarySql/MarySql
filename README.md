@@ -32,11 +32,20 @@
 ### 📫 How to find me:
 
 <div> 
-  <a href = "mailto:mary.mitsuri250@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/maryane-soares-1b4642327/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+  <a href="mailto:mary.mitsuri250@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 
+  <a href="https://www.linkedin.com/in/maryane-soares-1b4642327/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+
+  <a href="https://marysql.github.io/portfolio-web/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfólio-%23ff7e5f?style=for-the-badge&logo=internet-explorer&logoColor=white">
+  </a>
 </div>
+
 
 ---
 
