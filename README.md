@@ -1,6 +1,6 @@
 # Hello! I'm Mary 👋
 
-`Computer Science Student`
+
 
 > **Fullstack Developer** passionate about technology and software development. Always looking to learn and evolve! 🚀
 
