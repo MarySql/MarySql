@@ -2,7 +2,7 @@
 
 
 
-> **Fullstack Developer** passionate about technology and software development. Always looking to learn and evolve! 🚀
+> **Back End Developer** passionate about technology and software development. Always looking to learn and evolve! 🚀
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mary-Java" height="30" width="40" src="https://devicon-website.vercel.app/api/java/original.svg">
