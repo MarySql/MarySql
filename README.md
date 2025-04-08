@@ -19,10 +19,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=MarySql&show_icons=true&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api?username=DianaSVG&show_icons=true&theme=dracula" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarySql&layout=compact&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianaSVG&layout=compact&theme=dracula" />
     </td>
   </tr>
 </table>
@@ -31,11 +31,11 @@
 
 <div> 
 
-  <a href="mailto:mary.mitsuri250@gmail.com">
+  <a href="mailto:hello.dianadev@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 
-  <a href="https://www.linkedin.com/in/maryane-soares-1b4642327/" target="_blank">
+  <a href="https://www.linkedin.com/in/diana-soares-1b4642327/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 
