@@ -21,10 +21,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DianaSVG&show_icons=true&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api?username=marysql&show_icons=true&theme=dracula" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DianaSVG&layout=compact&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marysql&layout=compact&theme=dracula" />
     </td>
   </tr>
 </table>
