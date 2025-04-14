@@ -33,11 +33,11 @@
 
 <div> 
 
-  <a href="mailto:hello.dianadev@gmail.com">
+  <a href="mailto: marysql.contato@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 
-  <a href="https://www.linkedin.com/in/diana-soares-1b4642327/" target="_blank">
+  <a href="https://www.linkedin.com/in/maryane-soares-1b4642327/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 
