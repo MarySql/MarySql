@@ -21,13 +21,15 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=marysql&show_icons=true&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api?username=marysql&show_icons=true&theme=buefy" width="400" alt="GitHub stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marysql&layout=compact&theme=dracula" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marysql&layout=compact&theme=buefy" width="400" alt="Top languages" />
     </td>
   </tr>
 </table>
+
+
 
 ### 📫 How to find me:
 
