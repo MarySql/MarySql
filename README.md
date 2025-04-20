@@ -16,18 +16,8 @@
   <img align="center" alt="Mary-sql" height="30" width="40" src="https://devicon-website.vercel.app/api/mysql/original.svg">
 </div>
 
-### 📈 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=marysql&show_icons=true&theme=buefy" width="400" alt="GitHub stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marysql&layout=compact&theme=buefy" width="400" alt="Top languages" />
-    </td>
-  </tr>
-</table>
+
 
 
 
