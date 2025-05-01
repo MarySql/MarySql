@@ -1,6 +1,5 @@
-![logo-github](https://github.com/user-attachments/assets/64f66c22-ffbc-4f31-aa6d-dee760649d1a)
 
-# Hello! I'm Mary 👋
+# Hello! I'm Doug 👋
 
 
 
@@ -25,17 +24,15 @@
 
 <div> 
 
-  <a href="mailto: marysql.contato@gmail.com">
+  <a href="mailto: dowglasoares250@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 
-  <a href="https://www.linkedin.com/in/maryane-soares-1b4642327/" target="_blank">
+  <a href="https://www.linkedin.com/in/dowglas-soares-982960217/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
 
-  <a href="https://marysql.github.io/portfolio-web/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfólio-%23ff7e5f?style=for-the-badge&logo=internet-explorer&logoColor=white">
-  </a>
+
 </div>
 
 
