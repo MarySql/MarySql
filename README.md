@@ -1,43 +1,58 @@
+<h1 align="center">Hey there! 👋 I'm Doug</h1>
 
-# Hello! I'm Doug 👋
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation">
+</p>
 
-
-
-> **Back End Developer** passionate about technology and software development. Always looking to learn and evolve! 🚀
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mary-Java" height="30" width="40" src="https://devicon-website.vercel.app/api/java/original.svg">
-  <img align="center" alt="Mary-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Mary-node" height="30" width="40" src="https://devicon-website.vercel.app/api/nodejs/original.svg">
-  <img align="center" alt="Mary-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Mary-bootstrap" height="30" width="40" src="https://devicon-website.vercel.app/api/bootstrap/original.svg">
-  <img align="center" alt="Mary-git" height="30" width="40" src="https://devicon-website.vercel.app/api/git/original.svg">
-  <img align="center" alt="Mary-sql" height="30" width="40" src="https://devicon-website.vercel.app/api/mysql/original.svg">
-</div>
-
-
-
-
-
-
-### 📫 How to find me:
-
-<div> 
-
-  <a href="mailto: dowglasoares250@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-
-  <a href="https://www.linkedin.com/in/dowglas-soares-982960217/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-
-
-</div>
-
+<p align="center">
+  <strong>Back-End Developer</strong> | Coffee-fueled coder ☕ | Tech enthusiast 🚀  
+  <br>Always learning, always building.
+</p>
 
 ---
 
-_"Technology moves the world!"_ 💡
+### ⚙️ Tech Stack
 
+#### 🚀 Languages, Frameworks & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" title="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS"/>
+</p>
+
+---
+
+### 📫 Connect with me
+
+<p align="center">
+  <a href="mailto:dowglasoares250@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/dowglas-soares-982960217/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dowglasql&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dowglasql&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+### ✨ Highlight
+
+> 💡 _"Technology moves the world — and I'm here to help steer it."_  
+
+---
 
