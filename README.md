@@ -1,7 +1,7 @@
-<h1 align="center">Hey there! 👋 I'm Doug</h1>
+<h1 align="center">Hey there! 👋 I'm Maryane</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding animation">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Coding animation (female)">
 </p>
 
 <p align="center">
@@ -53,6 +53,6 @@
 
 ### ✨ Highlight
 
-> 💡 _"Technology moves the world — and I'm here to help steer it."_  
+> 💡 _"Technology moves the world — and I'm here to help steer it."_
 
 ---
