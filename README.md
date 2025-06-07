@@ -1,7 +1,7 @@
 <h1 align="center">Hey there! 👋 I'm Maryane</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300" alt="Coding animation (female)">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTI5bmxrd2dvZmVqc2hudWNuYnRraGZ5ZTNsa3puYWRyeXI5MjM3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif">
 </p>
 
 <p align="center">
