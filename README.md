@@ -45,8 +45,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marysql&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marysql&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marysql&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marysql&theme=tokyonight&show_icons=true&hide_border=false&layout=compact"/>
 </p>
 
 ---
