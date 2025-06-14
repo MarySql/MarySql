@@ -43,7 +43,7 @@
 </p>
 
 <p align="center" style="font-size: 12px;">
-  ⚙️ Frontend & Markup
+  ⚙️ Backend & Runtime
 </p>
 <p align="center">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" title="Spring Boot"/>
