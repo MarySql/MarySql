@@ -1,8 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Maryane</h1>
 
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTI5bmxrd2dvZmVqc2hudWNuYnRraGZ5ZTNsa3puYWRyeXI5MjM3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="300">
-</p>
+
 
 <p align="center">
   <strong>Back-End Developer</strong> | Coffee-fueled coder ☕ | Tech enthusiast 🚀  
@@ -12,10 +10,9 @@
 ---
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarySql&theme=github-compact" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarySql&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
-</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MarySql&theme=github-compact" />
+
 
 ### ⚙️ Tech Stack
 
@@ -44,11 +41,13 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" title="SQLite"/>
 
-
-
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="40" title="jUnit"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" width="40" title="jUnit"/>
 </p>
 
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarySql&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
+    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTI5bmxrd2dvZmVqc2hudWNuYnRraGZ5ZTNsa3puYWRyeXI5MjM3cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="178">
+</p>
 
 ---
 
