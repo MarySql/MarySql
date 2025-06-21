@@ -44,8 +44,8 @@
 </p>
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarySql&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&hide=prs,issues"/>  
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarySql&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=MarySql&show_icons=true&theme=midnight-purple&count_private=true&hide_border=true&hide=prs,issues"/>  
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarySql&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact"/>
 </p>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarySql&theme=github-compact" />
 
